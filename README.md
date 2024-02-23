@@ -1,2 +1,2 @@
 # vouchformeonline
-Project space for my first web app
+Vouch for me online, as the name suggests, is a webapp that allows people to solicit, provide, and display testimonials online for various applications, ranging from employment, to dating, to rental, or even as a tool for personal reflection.
